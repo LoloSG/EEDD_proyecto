@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="citas.xslt" type="text/xsl"?>
+<citas>
+<titulo>CITAS HUMORÍSTICAS</titulo>
+  <cita>
+    <autor>Will Rogers</autor>
+    <fechas>1879 - 1935</fechas>
+    <texto>Todo ha cambiado. La gente se toma a los humoristas en serio y a los políticos en broma.</texto>
+  </cita>
+  <cita>
+    <autor>Groucho Marx</autor>
+    <fechas>1890 - 1977</fechas>
+    <texto>No reírse de nada es de tontos, reirse de todo es de estúpidos.</texto>
+  </cita>
+  <cita>
+    <autor>Isaac Asimov</autor>
+    <fechas>1920 - 1992</fechas>
+    <texto>La primera ley de la dietética parece ser: si está bueno, es malo para usted.</texto>
+  </cita>
+  <cita>
+    <autor>Robin Williams</autor>
+    <fechas>1952 - </fechas>
+    <texto>El problema es que Dios le dio al hombre un cerebro y un pene, pero no le dio sangre suficiente para los dos a la vez.</texto>
+  </cita>
+</citas>

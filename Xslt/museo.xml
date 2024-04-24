@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   
+<?xml-stylesheet href="transformacion.xslt" type="text/xsl"?>
+
+   <museos>
+        <museo nombre="Uffizi">
+            <arquitecto>Vasari</arquitecto>
+            <construccion>16</construccion>
+        </museo>
+        <museo nombre="Bargello">
+            <arquitecto>NA</arquitecto>
+            <construccion>13</construccion>
+        </museo>
+        <museo nombre="Accademia">
+            <arquitecto>NA</arquitecto>
+            <construccion>18</construccion>
+        </museo>
+  </museos>

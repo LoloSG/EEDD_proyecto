@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+.chico{
+    
+    background-color: rgb(255, 255, 255);
+    border: 3px solid blue;
+    margin-bottom: 32px ;
+
+
+}
+
+p{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 6px;
+}
+
+h1{
+    text-align: center;
+}

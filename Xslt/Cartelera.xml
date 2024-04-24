@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   
+<?xml-stylesheet href="cartelera.xslt" type="text/xsl"?>
+<cartelera>
+    <pelicula>
+        <nombre>El Padrino</nombre>
+        <horario>20:00</horario>
+        <genero>Drama</genero>
+        <director>Francis Ford Coppola</director>
+    </pelicula>
+    <pelicula>
+        <nombre>Parásitos</nombre>
+        <horario>22:30</horario>
+        <genero>Thriller</genero>
+        <director>Bong Joon-ho</director>
+    </pelicula>
+</cartelera>

@@ -1,0 +1,17 @@
+git config --global user.name "mohies"
+  695  git config --global user.mail mohcen.benizza.bouzid.al@iespoligonosur.org
+  696  cd /home/alu_tarde/NetBeansProjects
+  697  git init
+  698  git status
+  699  git add.
+  700  git add .
+  701  git commit -m "primer"
+  702  git remote add origin https://github.com/mohies/k.git
+  703  git push -u origin master
+
+si da error
+git fetch
+ git rebase origin/master
+git push
+git push --set-upstream origin master(esto creo que en linux)
+

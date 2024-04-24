@@ -67,13 +67,19 @@ public class NumReales {
         }finally{
             
             try{
-                file.close();
-                 bufferedReader.close();
+                if (file!=null) {
+                    file.close();
+                }
+                
+                if (bufferedReader!=null) {
+                   bufferedReader.close(); 
+                }
+                 
                 
                 
                 
             }catch (IOException ex){
-                System.out.println(ex);
+                System.out.println(ex.getMessage());
             }
                    
         }
